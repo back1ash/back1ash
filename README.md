@@ -26,7 +26,7 @@
 
 ---
 
-### 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborater on
 
 - [Github-Notion .md sync](https://back1ash.notion.site/Notion-Github-MD-4896a6fd83f14bd48e53133fe9a231d2)
 
