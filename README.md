@@ -4,16 +4,11 @@
 ### 🌱 I’m currently learning
 
 - Front-End Technologies
-  - JS
-    - Vanilla JS
-    - React.js
-    - Vue.js
-    - Webpack
-
 ---
 
 ### 🤔 What I'm interested in and learn later.
 
+- webRTC
 - Back-End Technologies
   - Spring
   - SQL
