@@ -18,6 +18,7 @@
     - Pandas
     - matplotlib
 - Architect Principles
+- Docker & Kubernetes
 
 ---
 
