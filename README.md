@@ -9,8 +9,6 @@
 ---
 
 ### 🤔 What I'm interested in and learn later.
-
-- webRTC
 - Back-End Technologies
   - Spring
   - SQL
@@ -19,6 +17,7 @@
   - Python
     - Pandas
     - matplotlib
+    - ML, DL
 - Architect Principles
 - Docker & Kubernetes
 
