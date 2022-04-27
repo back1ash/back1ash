@@ -4,6 +4,8 @@
 ### 🌱 I’m currently learning
 
 - Front-End Technologies
+  - webRTC
+  - socket.IO
 ---
 
 ### 🤔 What I'm interested in and learn later.
