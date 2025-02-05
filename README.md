@@ -3,23 +3,15 @@
 
 ### 🌱 I’m currently learning
 
-- Front-End Technologies
-  - webRTC
-  - socket.IO
+- Kubernetes
+  - CI/CD (GitAction / argoCD)
+  - Monitoring (prometheus & grafana)
+  - gpuOperator
 ---
 
 ### 🤔 What I'm interested in and learn later.
-- Back-End Technologies
-  - Spring
-  - SQL
-  - DB (Maybe Oracle)
-- Data Processing Technologies
-  - Python
-    - Pandas
-    - matplotlib
-    - ML, DL
-- Architect Principles
-- Docker & Kubernetes
+  - Architect Principles
+  - QOS
 
 ---
 
@@ -31,7 +23,7 @@
 
 ### 📫 How to reach me
 
-- 📩 [Gmail](Mailto:teamforhj@gmail.com)
+- 📩 [Gmail](Mailto:bluping@hufs.ac.kr)
 - <a href="https://www.instagram.com/give_a_tooth/">
       <img 
           src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/give_a_tooth/"
