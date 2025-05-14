@@ -12,6 +12,9 @@
 ### 🤔 What I'm interested in and learn later.
   - Architect Principles
   - QOS
+  - Ansible
+  - Terraform
+  - Istio
 
 ---
 
